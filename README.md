@@ -5,11 +5,12 @@ This is the starter template for the final assessment project for Udacity's Reac
 This is developed by Utkarsh verma under Udacity's React Fundamentals course . 
 
 
-
+<img src="screenshots/home.png">
 To get started developing right away:
 
-* install all project dependencies with `npm install`
-* start the development server with `npm start`
+# install all project dependencies with `npm install`
+# start the development server with `npm start`
+<img src="screenshots/newbook.png">
 
 ## What You're Getting
 ```bash
